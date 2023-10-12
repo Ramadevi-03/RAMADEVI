@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+ <head>
+ <style>
+ a: visited{
+ color:red;
+ background-color:transparent;
+ }
+
+ a:hover{
+ color:yellow;
+ background-color:transparent;
+ }
+ </style>
+  <title>Document</title>
+ </head>
+ <body>
+  <a href="http://bit.ly/webdevloperassignment">web development assignment</a>
+ </body>
+</html>
